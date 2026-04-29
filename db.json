@@ -1,0 +1,110 @@
+[
+    {
+      "id": 1,
+      "title": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "description": "A tale of wealth, obsession, and the American Dream set in the roaring 1920s, following the mysterious millionaire Jay Gatsby and his pursuit of the enchanting Daisy Buchanan.",
+      "category": "Story",
+      "available_quantity": 7,
+      "image_url": "https://covers.openlibrary.org/b/isbn/9780743273565-L.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Clean Code",
+      "author": "Robert C. Martin",
+      "description": "A must-read handbook for software engineers that teaches practical techniques for writing readable, maintainable, and efficient code that stands the test of time.",
+      "category": "Tech",
+      "available_quantity": 5,
+      "image_url": "https://covers.openlibrary.org/b/isbn/9780132350884-L.jpg"
+    },
+    {
+      "id": 3,
+      "title": "A Brief History of Time",
+      "author": "Stephen Hawking",
+      "description": "An iconic exploration of the universe's biggest mysteries — from the Big Bang to black holes — written for general readers without any background in physics.",
+      "category": "Science",
+      "available_quantity": 8,
+      "image_url": "https://covers.openlibrary.org/b/isbn/9780553380163-L.jpg"
+    },
+    {
+      "id": 4,
+      "title": "The Alchemist",
+      "author": "Paulo Coelho",
+      "description": "A philosophical novel following a young Andalusian shepherd on a magical journey to find a worldly treasure, discovering that true wealth lies in following one's personal legend.",
+      "category": "Story",
+      "available_quantity": 10,
+      "image_url": "https://covers.openlibrary.org/b/isbn/9780061122415-L.jpg"
+    },
+    {
+      "id": 5,
+      "title": "The Pragmatic Programmer",
+      "author": "Andrew Hunt",
+      "description": "A timeless guide for developers offering practical advice on software craftsmanship, career building, and writing code that adapts to changing requirements and technologies.",
+      "category": "Tech",
+      "available_quantity": 4,
+      "image_url": "https://covers.openlibrary.org/b/isbn/9780201616224-L.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Cosmos",
+      "author": "Carl Sagan",
+      "description": "A breathtaking journey through space and time, exploring the origins of the universe, the nature of life, and humanity's place among the billions of galaxies.",
+      "category": "Science",
+      "available_quantity": 6,
+      "image_url": "https://covers.openlibrary.org/b/isbn/9780345331359-L.jpg"
+    },
+    {
+      "id": 7,
+      "title": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "description": "A powerful story of racial injustice and childhood innocence set in the American South, seen through the eyes of young Scout Finch as her father defends a Black man.",
+      "category": "Story",
+      "available_quantity": 9,
+      "image_url": "https://covers.openlibrary.org/b/isbn/9780061743528-L.jpg"
+    },
+    {
+      "id": 8,
+      "title": "You Don't Know JS",
+      "author": "Kyle Simpson",
+      "description": "A deep dive into the core mechanisms of JavaScript, challenging common misconceptions and revealing the true power of the language that runs the modern web.",
+      "category": "Tech",
+      "available_quantity": 3,
+      "image_url": "https://covers.openlibrary.org/b/isbn/9781491924464-L.jpg"
+    },
+    {
+      "id": 9,
+      "title": "The Selfish Gene",
+      "author": "Richard Dawkins",
+      "description": "A revolutionary examination of evolution from the gene's perspective, introducing the concept of the selfish gene and the cultural equivalent known as the meme.",
+      "category": "Science",
+      "available_quantity": 5,
+      "image_url": "https://covers.openlibrary.org/b/isbn/9780198788607-L.jpg"
+    },
+    {
+      "id": 10,
+      "title": "1984",
+      "author": "George Orwell",
+      "description": "A chilling dystopian novel set in a totalitarian society under constant surveillance, following Winston Smith as he dares to question the all-powerful Party and its leader Big Brother.",
+      "category": "Story",
+      "available_quantity": 12,
+      "image_url": "https://covers.openlibrary.org/b/isbn/9780451524935-L.jpg"
+    },
+    {
+      "id": 11,
+      "title": "JavaScript: The Good Parts",
+      "author": "Douglas Crockford",
+      "description": "A concise guide that uncovers the elegant and reliable subset of JavaScript, helping developers avoid the language's pitfalls and write better, more maintainable web applications.",
+      "category": "Tech",
+      "available_quantity": 6,
+      "image_url": "https://covers.openlibrary.org/b/isbn/9780596517748-L.jpg"
+    },
+    {
+      "id": 12,
+      "title": "The Gene: An Intimate History",
+      "author": "Siddhartha Mukherjee",
+      "description": "A sweeping narrative of the history of the gene, from Mendel's peas to CRISPR, exploring how this fundamental unit of heredity shapes identity, disease, and the future of humanity.",
+      "category": "Science",
+      "available_quantity": 4,
+      "image_url": "https://covers.openlibrary.org/b/isbn/9781476733500-L.jpg"
+    }
+  ]
