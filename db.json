@@ -108,5 +108,116 @@
       "available_quantity": 4,
       "image_url": "https://covers.openlibrary.org/b/isbn/9781476733500-L.jpg"
     }
+  ],
+ "books_data": [
+    {
+      "id": 1,
+      "title": "The Future of AI",
+      "author": "Dr. Elena Sterling",
+      "description": "An in-depth exploration of artificial intelligence and its impact on the future of humanity.",
+      "category": "Tech",
+      "available_quantity": 15,
+      "image_url": "https://lh3.googleusercontent.com/aida-public/AB6AXuCS_yayskDRjF9PgQ2HqUpBtEjRHL3n2kUgmjYhOUHpz571B53sUrD2TAvcg2NJMhGzsUGz8Ha2I5Sf-65k5cid9r3_Rw7MFRfvV3WPVWLgRs07dZw-e0VMetaZtRjF_qluCL3abqc5vFeiO24fV1XK1L_D_SA3oUzR2o5DTSIKvtN5nG5r90ApruRvyj10LL5hp0h-3hc5CajZw4sZKdoI_7hymLxyRxSmxho0iZTFVUmRatHuOwafz41LOd03amAJ0FSjLZdaZ8zj"
+    },
+    {
+      "id": 2,
+      "title": "Design Systems",
+      "author": "Marcus Thorne",
+      "description": "A comprehensive guide to building scalable and consistent design systems for digital products.",
+      "category": "Tech",
+      "available_quantity": 8,
+      "image_url": "https://lh3.googleusercontent.com/aida-public/AB6AXuA0ekTC-tzfgAkesQ2vG0sv4sFbkybOfXNoSfrzjnv4FUuc_RMymCldc62ouWCUXgTKxcUr11ab-oF9WagjVrH65S1MFUmVKud96GxrVJutCmOpoFQype-6YGc1uU1JiRW-7qKDCESQ32abL3kmzOGGOQbB0mEBZbK6nss-X5o_TWQDNpx2kVIwVLe30bYwqMw4pClru5yHjZ7YB9O4rNtwOjD4KJ3OhgIPGRmOz0KBTPxzATF_hB-DDlEkaOa4CAzGeiQ2zqxLLaBa"
+    },
+    {
+      "id": 3,
+      "title": "Modern Philosophy",
+      "author": "Soren Vance",
+      "description": "A journey through contemporary philosophical thought and its relevance in the modern world.",
+      "category": "Story",
+      "available_quantity": 12,
+      "image_url": "https://lh3.googleusercontent.com/aida-public/AB6AXuAxwXX-QKuWjKP1G9iP9mxwBwoJC_tJRzJGh9-Qv7v_EPivfomwoDnkG18jQjnS06jMNwRe8-O_aqiwlUrS_euZ98XPFJ6lLIDateaKOKh50CNdYQYNK1YDe4JoSa-d0M9xnk-nEbhrrfAiOhg3fEDjU9D2XByTsHjSkBlfV13w3xG681baDG8GSCGIeV6c4U_UevaEfT0qosUuB3i0fQClrq6lsCl_RJdaY63XPUdVYEh_GqrNpBc9tsrQfwLbPaCRGrxu3_nMGhOk"
+    },
+    {
+      "id": 4,
+      "title": "Digital Security",
+      "author": "Sarah Chen",
+      "description": "Essential practices for maintaining high security and technical precision in a digital world.",
+      "category": "Tech",
+      "available_quantity": 5,
+      "image_url": "https://lh3.googleusercontent.com/aida-public/AB6AXuBh8tIkvBXfCxU0F5nkNjEiEQHjJLB2GraAgyHDetRdnSBW3aTrOHIGuQ9cUBntopkdzk1liNh2xCuvW-1ccfg_QGhdPOQb_voCMwDq3YTHranNcYKbkUoYz03Tc2hNivL0aEzoTlQOCXnCIyat9TswEU6isXZFkdIp2lp-OT7CSBMlEx6z7JRXwTznFOeerE_n-oH_a1gx6YK8OuCWURLcUfw3wHAQdTdrtMpHlSa45598cnyRR9Ps607NCea-BDpFJYNBnMqsznhb"
+    },
+    {
+      "id": 5,
+      "title": "Data Science Mastery",
+      "author": "Julian Black",
+      "description": "A professional guide to data analysis, visualization, and analytical depth.",
+      "category": "Tech",
+      "available_quantity": 10,
+      "image_url": "https://lh3.googleusercontent.com/aida-public/AB6AXuBhsj1B7sRMMT23yg5WxxL-Qq9DFvZMkBGvov4tDmvP6q9NvaOyKXp-s6wZsDSYISjYx0vM8eFpmwVcJr_JKHSgMMFbn7ybeVvB4n0aEBb7dLj8DJ1a0gafW7xi5cTmYs2kv9FTddLqE-RNMDirxpU7ileNJXuh8lPeHU70Do4VN5lrpBUk1--su6UQl-QeiOl43PT1FuOWUrniHwHvKDPzC2w2eO7b89Nu6QWlS0cA7cuxtcUkx4DB7xiekd5qTU12wUY9O_cDzBaX"
+    },
+    {
+      "id": 6,
+      "title": "Urban Spaces",
+      "author": "Liam Foster",
+      "description": "Understanding modern architecture and the design of geometric urban facades.",
+      "category": "Tech",
+      "available_quantity": 7,
+      "image_url": "https://lh3.googleusercontent.com/aida-public/AB6AXuCSzwczqRK_obYeuYoFHxDjm_0oI8ap-8pPtSwHs_xCbxtSNPkbX5BPDf-z_RBjGAVlwzgYitwUM0wSVcz1J4f6VE72H8PhcXkfbtT_guBEt8UqTQ_ex09lHmnzK07b9Q5lefjT6kRnKRIdd5Rcyn9LALmy4HEZnVnr5PGSfJhPewGCEipB9M8U4xoPUPoA2FXfOVnk3jkdFhoU58iduPCbtN66Sbqw5zRYnaEjHiLdIHhgG4UVFKMJLWxGsmczokpcGRfdaZqnQjFj"
+    },
+    {
+      "id": 7,
+      "title": "The Cosmos Explained",
+      "author": "Astra Nova",
+      "description": "An awe-inspiring journey through the scale and mysteries of the universe.",
+      "category": "Science",
+      "available_quantity": 20,
+      "image_url": "https://lh3.googleusercontent.com/aida-public/AB6AXuCI90oI39KCR89trmKXnfPlFc9cdzm6m_7mMc2Xf1d4Uu-YvfOPAd290WB8fXRKqiqOrPzdrqPJLSzQ_Y6Od4ays1hnu2ij6tg3b2bVssvRr_5aYWXOGURnRRzHBv3WvNL_CMit--8-uWy3rxUrtq9TA6vejQz7WX6o_IfFoszPtBYXNbJDkVyTPjyaD3H7Rx5YbKLaKcZsFjUZ3NUOlApROhoDGNIGh4iLm8PLjrtO01xQ_fhqt6KZH6cOr2pllUqIgoIHNI9RmCRB"
+    },
+    {
+      "id": 8,
+      "title": "New Economics",
+      "author": "Robert Sterling",
+      "description": "A minimalist approach to understanding the financial intelligence and the future of economics.",
+      "category": "Science",
+      "available_quantity": 9,
+      "image_url": "https://lh3.googleusercontent.com/aida-public/AB6AXuBIUv_5wmOevCkqjyyFy1rmTpSThHlU9CFOEqG7uHzjgP7mt11_EqtIf88gqtl3Zew4ppCoOUUarzUI9WZunuZ7k8_-qCZjGjypv7aRmuHeN8Cq8gYFqZTGUdYYw1ziGklT8zB956iVs5z0aVgA3cWjPM14yOQAjoAmygPhROFv7VqVjMkcAxaxSjZH349GwNmkRz2Mvyy9XUpIapqI2x5LcVMRqiNzsAeaqLicEO4EQ-aArZ6vAHND1h6aWdK6hxPwLGUXgrQzETCz"
+    },
+    {
+      "id": 9,
+      "title": "Creative Leadership",
+      "author": "Emma Wright",
+      "description": "Balancing creativity and structure in modern management and leadership.",
+      "category": "Story",
+      "available_quantity": 14,
+      "image_url": "https://lh3.googleusercontent.com/aida-public/AB6AXuDUepNgl-3NvZsGZJKxluNmapCMjl2qGxyaVdMp-s8E3dE-sB4AYux38EDOnAhRsbjVxw7AUd2lndTSoGBaO0uLTDWNI0UF_GMzJqxtRZIyRFS7ciEoqLjd3MENHjl-CSUdI-CaGpU7L8WiqvvscyOz7UywTKDNLwU2j7098KrkF-VO89kKeU33yLTxncLgSDirfoWz-x1ddu3t4JMpaGqILSIiY2TM4lexdmy-P4SG0iH6UzvfbJeihEuA1lPygz3EpyXB9Wrqln_m"
+    },
+    {
+      "id": 10,
+      "title": "Human Genetics",
+      "author": "Dr. David Miller",
+      "description": "A scientific exploration of the DNA helix and advanced genetic technologies.",
+      "category": "Science",
+      "available_quantity": 11,
+      "image_url": "https://lh3.googleusercontent.com/aida-public/AB6AXuAaQI2wmCV17XFcrtWa0dh2OpIAw7kBHa1KA5L0CO-K3xEf7ECFHf0FEbKSoTrFjsfI7d-E5GdmmJ96MoTmcPdhfo2oD8NJx-zGOOemAOQpJZWKYUcA8ySogGmtkDNiHtGzB_N7OjIr4EFJExm8Oefn1U_BTF0UUuFzFTCqiMys0OTLnjGocb-fZq0Ol9PLyVgBRFpwyRDa99--uw-LOOXAN2-UbYPvPdJ78SPafC4NLFUsi8D-Bnsl6vxA8ZxpXuHaPm1COm9ryiGh"
+    },
+    {
+      "id": 11,
+      "title": "World History",
+      "author": "Professor Alan Watts",
+      "description": "Blending traditional scholarship with modern presentation in a global historical context.",
+      "category": "Story",
+      "available_quantity": 18,
+      "image_url": "https://lh3.googleusercontent.com/aida-public/AB6AXuDSHgkX5sxmTa62yc3EJ56-Iin5olMcpOHtF3ufcgh-L6IXtuMasKdhFkitB4tScx9nEP9pc4ODlxR9lyRYXB2xfaPf1c0usip22hS_5lOJ2RGDGVHaurC8tzprCx_Ys0kq9iYDJKZmBv3zbzmoXKMC_-T_e8wixoChvoEyR1rjKgqqcEyMcfsgKhkn4E3IhIxmN55ZYopFu8X-o3nNmh8HJe_MMqs0q-n1RszN_nsVM9J3WCT-KImV4fdCCf-42hcTYcUNDVJcs57R"
+    },
+    {
+      "id": 12,
+      "title": "Advanced Computing",
+      "author": "Kevin Patterson",
+      "description": "A look at incredible precision hardware and the engineering behind modern hardware.",
+      "category": "Tech",
+      "available_quantity": 6,
+      "image_url": "https://lh3.googleusercontent.com/aida-public/AB6AXuDs3iurf4NH6bEJQUgZ8uDkdBzF2MwkaJtAGlEBkIJDQqjL-bI8-ZFiY67ZFcLsoziGysdRVtHgrQgFNvx2XSLNslCd8hsQRnpnl7DiWfctbe_AjNefS5PqxoBL2Y2PfD7U7wPxoRc2nssaYc2inDWSYhFAlM7t88Ov3dYhGSweyuGp7FB1BJekJh5i03U9R8XzYp2RwQNAov1St0uz8D8iyJYJWsm1sIniFlz7w6lUCgb7Da1pXrW4BzviuZeXY3p8gkMJs0qA9OKo"
+    }
   ]
+  
 }
